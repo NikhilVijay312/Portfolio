@@ -160,7 +160,7 @@ section.profile .right ul.socials li:nth-child(1) a{
 
 }
 section.profile .right ul.socials li:nth-child(2) a{
-    background: var(--twitter);
+    background: var(--dark);
     
 }
 section.profile .right ul.socials li:nth-child(3) a{
