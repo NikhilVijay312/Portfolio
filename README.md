@@ -1,5 +1,5 @@
 # Portfolio
-# Portfolio (finance), a collection of assets held by an institution or a private individual
+# Portfolio (finance), a collection of assets held by an institution or a private individual<br>
 #Artist's portfolio, a sample of an artist's work or a case used to display artwork, photographs etc.
 #Career portfolio, an organized presentation of an individual's education, work samples, and skills
 #Electronic portfolio, a collection of electronic documents
